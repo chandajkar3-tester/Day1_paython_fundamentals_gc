@@ -1,2 +1,2 @@
-# Day1_paython_fundamentals_gc
+# B98_Ganesh_Chandajkar_paython_fundamentals_gc
 Day1 B98
